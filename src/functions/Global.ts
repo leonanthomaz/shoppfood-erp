@@ -1,0 +1,1 @@
+export const getMerchantCode = () => localStorage.getItem("MERCHANT_CODE")
